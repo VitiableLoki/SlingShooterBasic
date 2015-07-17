@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c5467b45f90c6874fba9a57cede55f3e
+timeCreated: 1436380906
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - prefabProjectile: {fileID: 100000, guid: 146fcce21ea935a4fadbcadd5731097d, type: 3}
+  - arrowSound: {fileID: 8300000, guid: b9275decd3fa01847987bd376d91f0d3, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
